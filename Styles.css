@@ -1,11 +1,11 @@
-/** {
+* {
   border: 1px solid red;
-}*/
+}
 
-#contenido {
+#background {
   width: 1200px;
   height: 5000px;
-  margin: 0 auto;
+  margin: auto;
   background-color: white;
 }
 body {
@@ -58,4 +58,10 @@ ul {
 
 .nav-menu1 li:hover {
   background-color: #434343;
+}
+
+#container {
+  width: 1000px;
+  height: 3000px;
+  margin: auto;
 }
